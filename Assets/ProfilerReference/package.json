@@ -1,0 +1,25 @@
+{
+  "name": "com.profilerreference.tool",
+  "version": "1.0.0",
+  "displayName": "Profiler Reference Tool",
+  "description": "A Unity tool for analyzing profiler data and providing optimization suggestions for developers",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/your-repo/profiler-reference",
+  "changelogUrl": "https://github.com/your-repo/profiler-reference/changelog",
+  "licensesUrl": "https://github.com/your-repo/profiler-reference/license",
+  "keywords": [
+    "profiler",
+    "performance",
+    "optimization",
+    "analysis",
+    "unity"
+  ],
+  "author": {
+    "name": "Profiler Reference Team",
+    "email": "contact@profilerreference.com",
+    "url": "https://github.com/your-repo"
+  },
+  "type": "tool",
+  "hideInEditor": false
+}
